@@ -1,5 +1,5 @@
 ## ENSAPP API
-![Logo](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/ENSAPP%20API%20Banner.png)
+![Logo](/images/ENSAPP%20API%20Banner.png)
 
 
 ![Static Badge](httpss://img.shields.io/badge/Awesome%20API-8A2BE2?logo=windows)
@@ -19,7 +19,7 @@
 | `password` | `string` | **Required**. Your ENSAPP Password |
 
 #### Response :
-![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(17).svg)
+![App Screenshot](/images/codesnippet%20(17).svg)
 
 #### Get All Account Infos Count
 ```
@@ -32,7 +32,7 @@
 | `password` | `string` | **Required**. Your ENSAPP Password |
 
 #### Response :
-![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(16).svg)
+![App Screenshot](/images/codesnippet%20(16).svg)
 
 #### Change Account's Email
 ```
@@ -46,7 +46,7 @@
 | `newEmail` | `string` | **Required**. Your New Email |
 
 #### Response :
-![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(1).svg)
+![App Screenshot](/images/codesnippet%20(1).svg)
 
 #### Change Account's Phone Number
 ```
@@ -60,7 +60,7 @@
 | `newPhoneNumber` | `string` | **Required**. Your New Phone Number   |
 
 #### Response :
-![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(4).svg)
+![App Screenshot](/images/codesnippet%20(4).svg)
 
 #### Change Account's Password
 ```
@@ -74,7 +74,7 @@
 | `new_password` | `string` | **Required**. Your Desired New Password   |
 
 #### Response :
-![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(3).svg)
+![App Screenshot](/images/codesnippet%20(3).svg)
 
 #### Verify Account's Personal Data
 ```
@@ -97,7 +97,7 @@
 | `massarcode` | `string` | **Required**. Your Massar Code (ex: G1111111) |
 
 #### Response :
-![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(2).svg)
+![App Screenshot](/images/codesnippet%20(2).svg)
 
 #### Get 'Emploi Du Temps' URL
 ```
@@ -110,7 +110,7 @@
 | `password` | `string` | **Required**. Your ENSAPP Password |
 
 #### Response :
-![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(5).svg)
+![App Screenshot](/images/codesnippet%20(5).svg)
 
 #### Get Library's Books By Page
 ```
@@ -124,7 +124,7 @@
 | `page_index` | `int` | **Required**. Page Index (ex: 1) |
 
 #### Response :
-![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(6).svg)
+![App Screenshot](/images/codesnippet%20(6).svg)
 
 #### Get All Filters Of Books
 ```
@@ -137,7 +137,7 @@
 | `password` | `string` | **Required**. Your ENSAPP Password |
 
 #### Response :
-![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(7).svg)
+![App Screenshot](/images/codesnippet%20(7).svg)
 
 #### Get Books By Filter & Page
 ```
@@ -152,7 +152,7 @@
 | `page` | `int` | **Required**. Page Index (ex: 1)|
 
 #### Response :
-![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(8).svg)
+![App Screenshot](/images/codesnippet%20(8).svg)
 
 #### Get All News
 ```
@@ -165,7 +165,7 @@
 | `password` | `string` | **Required**. Your ENSAPP Password |
 
 #### Response :
-![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(9).svg)
+![App Screenshot](/images/codesnippet%20(9).svg)
 
 #### Get Divers Services IDs
 ```
@@ -178,7 +178,7 @@
 | `password` | `string` | **Required**. Your ENSAPP Password |
 
 #### Response :
-![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(10).svg)
+![App Screenshot](/images/codesnippet%20(10).svg)
 
 #### Get All Program Changes IDs
 ```
@@ -191,7 +191,7 @@
 | `password` | `string` | **Required**. Your ENSAPP Password |
 
 #### Response :
-![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(11).svg)
+![App Screenshot](/images/codesnippet%20(11).svg)
 
 #### Get Listening Cells IDs
 ```
@@ -204,7 +204,7 @@
 | `password` | `string` | **Required**. Your ENSAPP Password |
 
 #### Response :
-![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(12).svg)
+![App Screenshot](/images/codesnippet%20(12).svg)
 
 #### Get Stages IDs
 ```
@@ -217,7 +217,7 @@
 | `password` | `string` | **Required**. Your ENSAPP Password |
 
 #### Response :
-![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(13).svg)
+![App Screenshot](/images/codesnippet%20(13).svg)
 
 #### Send Service Demand By ID (Divers Services)
 ```
@@ -231,7 +231,7 @@
 | `serviceid` | `int` | **Required**. Service ID (ex: 19 -> Attestation d'inscription)|
 
 #### Response :
-![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(14).svg)
+![App Screenshot](/images/codesnippet%20(14).svg)
 
 #### Start Convention Stage By ID
 ```
@@ -245,7 +245,7 @@
 | `stageid` | `int` | **Required**. Stage ID (ex: 1 -> Projet de fin d'études (PFE))|
 
 #### Response :
-![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(15).svg)
+![App Screenshot](/images/codesnippet%20(15).svg)
 
 #### Send Listening Appointment Demand
 ```
@@ -258,7 +258,7 @@
 | `appointmentid` | `int` | **Required**. Appointment ID (ex: 1 -> Problème personnel|
 
 #### Response :
-![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(14).svg)
+![App Screenshot](/images/codesnippet%20(14).svg)
 
 #### Send Program Change Demand
 ```
@@ -272,7 +272,7 @@
 | `programid` | `int` | **Required**. Program ID (ex: 1 -> Double diplomation|
 
 #### Response :
-![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(14).svg)
+![App Screenshot](/images/codesnippet%20(14).svg)
 ## 🛠 Built With
 ![Static Badge](httpss://img.shields.io/badge/ASP%20.NET%20WEB%20API-6b32fa?logo=dotnet&logoColor=white)
 
