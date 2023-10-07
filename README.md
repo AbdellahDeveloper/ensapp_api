@@ -2,7 +2,7 @@
 ![Logo](/images/ENSAPP%20API%20Banner.png)
 
 
-![Static Badge](https://img.shields.io/badge/Awesome%20API-8A2BE2?logo=windows)
+![Static Badge](https://img.shields.io/badge/Awesome%20API-8A2BE2?logo=windows&logoColor=white)
 
 
 ## API Reference
