@@ -1,16 +1,16 @@
 ## ENSAPP API
-![Logo](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/ENSAPP%20API%20Banner.png)
+![Logo](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/ENSAPP%20API%20Banner.png)
 
 
-![Static Badge](https://img.shields.io/badge/Awesome%20API-8A2BE2?logo=windows)
+![Static Badge](httpss://img.shields.io/badge/Awesome%20API-8A2BE2?logo=windows)
 
 
 ## API Reference
 
 #### Get Account Info
 
-```http
-  GET https://ensapp-api.somee.com/account_infos?username=##&password=###
+```
+  GET httpss://ensapp-api.somee.com/account_infos?username=##&password=###
 ```
 
 | Parameter | Type     | Description                |
@@ -19,11 +19,11 @@
 | `password` | `string` | **Required**. Your ENSAPP Password |
 
 #### Response :
-![App Screenshot](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(17).svg)
+![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(17).svg)
 
 #### Get All Account Infos Count
 ```
-  GET http://ensapp-api.somee.com/account_infos/get_all_infos_counts?username=##&password=##
+  GET https://ensapp-api.somee.com/account_infos/get_all_infos_counts?username=##&password=##
 ```
 
 | Parameter | Type     | Description                |
@@ -32,11 +32,11 @@
 | `password` | `string` | **Required**. Your ENSAPP Password |
 
 #### Response :
-![App Screenshot](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(16).svg)
+![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(16).svg)
 
 #### Change Account's Email
-```http
-  POST http://ensapp-api.somee.com/operations/change_email?username=######&password=###&newEmail=####@gmail.com
+```
+  POST https://ensapp-api.somee.com/operations/change_email?username=######&password=###&newEmail=####@gmail.com
 ```
 
 | Parameter | Type     | Description                |
@@ -46,11 +46,11 @@
 | `newEmail` | `string` | **Required**. Your New Email |
 
 #### Response :
-![App Screenshot](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(1).svg)
+![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(1).svg)
 
 #### Change Account's Phone Number
-```http
-  POST http://ensapp-api.somee.com/operations​/change_phone_number?username=######&password=###&newPhoneNumber=###
+```
+  POST https://ensapp-api.somee.com/operations​/change_phone_number?username=######&password=###&newPhoneNumber=###
 ```
 
 | Parameter | Type     | Description                |
@@ -60,11 +60,11 @@
 | `newPhoneNumber` | `string` | **Required**. Your New Phone Number   |
 
 #### Response :
-![App Screenshot](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(4).svg)
+![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(4).svg)
 
 #### Change Account's Password
-```http
-  POST http://ensapp-api.somee.com​/operations​/change_password?username=######&current_password=###&new_password=###
+```
+  POST https://ensapp-api.somee.com​/operations​/change_password?username=######&current_password=###&new_password=###
 ```
 
 | Parameter | Type     | Description                |
@@ -74,11 +74,11 @@
 | `new_password` | `string` | **Required**. Your Desired New Password   |
 
 #### Response :
-![App Screenshot](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(3).svg)
+![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(3).svg)
 
 #### Verify Account's Personal Data
-```http
-  POST http://ensapp-api.somee.com​​/operations​/personal_data_verification
+```
+  POST https://ensapp-api.somee.com​​/operations​/personal_data_verification
 ```
 
 | Parameter | Type     | Description                |
@@ -97,11 +97,11 @@
 | `massarcode` | `string` | **Required**. Your Massar Code (ex: G1111111) |
 
 #### Response :
-![App Screenshot](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(2).svg)
+![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(2).svg)
 
 #### Get 'Emploi Du Temps' URL
-```http
-  GET http://ensapp-api.somee.com/get_emploi_url?username=##&password=##
+```
+  GET https://ensapp-api.somee.com/get_emploi_url?username=##&password=##
 ```
 
 | Parameter | Type     | Description                |
@@ -110,11 +110,11 @@
 | `password` | `string` | **Required**. Your ENSAPP Password |
 
 #### Response :
-![App Screenshot](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(5).svg)
+![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(5).svg)
 
 #### Get Library's Books By Page
-```http
-  GET http://ensapp-api.somee.com/get_books_by_page?username=###&password=###&page_index=#
+```
+  GET https://ensapp-api.somee.com/get_books_by_page?username=###&password=###&page_index=#
 ```
 
 | Parameter | Type     | Description                |
@@ -124,11 +124,11 @@
 | `page_index` | `int` | **Required**. Page Index (ex: 1) |
 
 #### Response :
-![App Screenshot](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(6).svg)
+![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(6).svg)
 
 #### Get All Filters Of Books
-```http
-  GET http://ensapp-api.somee.com/library/get_all_filters?username=###&password=###
+```
+  GET https://ensapp-api.somee.com/library/get_all_filters?username=###&password=###
 ```
 
 | Parameter | Type     | Description                |
@@ -137,11 +137,11 @@
 | `password` | `string` | **Required**. Your ENSAPP Password |
 
 #### Response :
-![App Screenshot](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(7).svg)
+![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(7).svg)
 
 #### Get Books By Filter & Page
-```http
-  GET http://ensapp-api.somee.com/library/filter?username=###&password=###&filter_id=#&page=#
+```
+  GET https://ensapp-api.somee.com/library/filter?username=###&password=###&filter_id=#&page=#
 ```
 
 | Parameter | Type     | Description                |
@@ -152,11 +152,11 @@
 | `page` | `int` | **Required**. Page Index (ex: 1)|
 
 #### Response :
-![App Screenshot](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(8).svg)
+![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(8).svg)
 
 #### Get All News
-```http
-  GET http://ensapp-api.somee.com/news/get_all_news?username=###&password=###
+```
+  GET https://ensapp-api.somee.com/news/get_all_news?username=###&password=###
 ```
 
 | Parameter | Type     | Description                |
@@ -165,11 +165,11 @@
 | `password` | `string` | **Required**. Your ENSAPP Password |
 
 #### Response :
-![App Screenshot](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(9).svg)
+![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(9).svg)
 
 #### Get Divers Services IDs
-```http
-  GET http://ensapp-api.somee.com/services/get_all_divers_services?username=###&password=###
+```
+  GET https://ensapp-api.somee.com/services/get_all_divers_services?username=###&password=###
 ```
 
 | Parameter | Type     | Description                |
@@ -178,11 +178,11 @@
 | `password` | `string` | **Required**. Your ENSAPP Password |
 
 #### Response :
-![App Screenshot](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(10).svg)
+![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(10).svg)
 
 #### Get All Program Changes IDs
-```http
-  GET http://ensapp-api.somee.com/services/get_all_program_changes?username=###&password=###
+```
+  GET https://ensapp-api.somee.com/services/get_all_program_changes?username=###&password=###
 ```
 
 | Parameter | Type     | Description                |
@@ -191,11 +191,11 @@
 | `password` | `string` | **Required**. Your ENSAPP Password |
 
 #### Response :
-![App Screenshot](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(11).svg)
+![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(11).svg)
 
 #### Get Listening Cells IDs
-```http
-  GET http://ensapp-api.somee.com/services/get_all_listening_cells?username=###&password=###
+```
+  GET https://ensapp-api.somee.com/services/get_all_listening_cells?username=###&password=###
 ```
 
 | Parameter | Type     | Description                |
@@ -204,11 +204,11 @@
 | `password` | `string` | **Required**. Your ENSAPP Password |
 
 #### Response :
-![App Screenshot](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(12).svg)
+![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(12).svg)
 
 #### Get Stages IDs
-```http
-  GET http://ensapp-api.somee.com/services/get_all_stages?username=###&password=###
+```
+  GET https://ensapp-api.somee.com/services/get_all_stages?username=###&password=###
 ```
 
 | Parameter | Type     | Description                |
@@ -217,11 +217,11 @@
 | `password` | `string` | **Required**. Your ENSAPP Password |
 
 #### Response :
-![App Screenshot](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(13).svg)
+![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(13).svg)
 
 #### Send Service Demand By ID (Divers Services)
-```http
-  POST http://ensapp-api.somee.com/​services​/send_service_demand?username=###&password=###&serviceid=#
+```
+  POST https://ensapp-api.somee.com/​services​/send_service_demand?username=###&password=###&serviceid=#
 ```
 
 | Parameter | Type     | Description                |
@@ -231,11 +231,11 @@
 | `serviceid` | `int` | **Required**. Service ID (ex: 19 -> Attestation d'inscription)|
 
 #### Response :
-![App Screenshot](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(14).svg)
+![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(14).svg)
 
 #### Start Convention Stage By ID
-```http
-  POST http://ensapp-api.somee.com​/services​/start_convention_stage?username=###&password=###&stageid=#
+```
+  POST https://ensapp-api.somee.com​/services​/start_convention_stage?username=###&password=###&stageid=#
 ```
 
 | Parameter | Type     | Description                |
@@ -245,11 +245,11 @@
 | `stageid` | `int` | **Required**. Stage ID (ex: 1 -> Projet de fin d'études (PFE))|
 
 #### Response :
-![App Screenshot](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(15).svg)
+![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(15).svg)
 
 #### Send Listening Appointment Demand
-```http
-  POST http://ensapp-api.somee.com​/​services​/demand_listening_appointment?username=###&password=###&appointmentid=#
+```
+  POST https://ensapp-api.somee.com​/​services​/demand_listening_appointment?username=###&password=###&appointmentid=#
 ```
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
@@ -258,11 +258,11 @@
 | `appointmentid` | `int` | **Required**. Appointment ID (ex: 1 -> Problème personnel|
 
 #### Response :
-![App Screenshot](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(14).svg)
+![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(14).svg)
 
 #### Send Program Change Demand
-```http
-  Post http://ensapp-api.somee.com​​/services​/demand_program_change?username=###&password=###&programid=#
+```
+  Post https://ensapp-api.somee.com​​/services​/demand_program_change?username=###&password=###&programid=#
 ```
 
 | Parameter | Type     | Description                |
@@ -272,11 +272,11 @@
 | `programid` | `int` | **Required**. Program ID (ex: 1 -> Double diplomation|
 
 #### Response :
-![App Screenshot](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(14).svg)
+![App Screenshot](httpss://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(14).svg)
 ## 🛠 Built With
-![Static Badge](https://img.shields.io/badge/ASP%20.NET%20WEB%20API-6b32fa?logo=dotnet&logoColor=white)
+![Static Badge](httpss://img.shields.io/badge/ASP%20.NET%20WEB%20API-6b32fa?logo=dotnet&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/C%23-006e18?logo=csharp&logoColor=white)
+![Static Badge](httpss://img.shields.io/badge/C%23-006e18?logo=csharp&logoColor=white)
 
 
 
