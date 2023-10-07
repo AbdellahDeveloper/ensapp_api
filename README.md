@@ -10,7 +10,7 @@
 #### Get Account Info
 
 ```http
-  GET http://ensapp-api.somee.com/account_infos?username=##&password=###
+  GET https://ensapp-api.somee.com/account_infos?username=##&password=###
 ```
 
 | Parameter | Type     | Description                |
