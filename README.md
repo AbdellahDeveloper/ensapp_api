@@ -22,7 +22,7 @@
 ![App Screenshot](https://raw.githubusercontent.com/AbdellahDeveloper/ensapp_api/fe2f499e1dcd992cbfa1d78b331c55142c3db489/images/codesnippet%20(17).svg)
 
 #### Get All Account Infos Count
-```http
+```
   GET http://ensapp-api.somee.com/account_infos/get_all_infos_counts?username=##&password=##
 ```
 
