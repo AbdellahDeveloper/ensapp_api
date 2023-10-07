@@ -2,7 +2,7 @@
 ![Logo](/images/ENSAPP%20API%20Banner.png)
 
 
-![Static Badge](httpss://img.shields.io/badge/Awesome%20API-8A2BE2?logo=windows)
+![Static Badge](https://img.shields.io/badge/Awesome%20API-8A2BE2?logo=windows)
 
 
 ## API Reference
@@ -10,7 +10,7 @@
 #### Get Account Info
 
 ```
-  GET httpss://ensapp-api.somee.com/account_infos?username=##&password=###
+  GET https://ensapp-api.somee.com/account_infos?username=##&password=###
 ```
 
 | Parameter | Type     | Description                |
@@ -274,9 +274,9 @@
 #### Response :
 ![App Screenshot](/images/codesnippet%20(14).svg)
 ## 🛠 Built With
-![Static Badge](httpss://img.shields.io/badge/ASP%20.NET%20WEB%20API-6b32fa?logo=dotnet&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ASP%20.NET%20WEB%20API-6b32fa?logo=dotnet&logoColor=white)
 
-![Static Badge](httpss://img.shields.io/badge/C%23-006e18?logo=csharp&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%23-006e18?logo=csharp&logoColor=white)
 
 
 
