@@ -32,7 +32,7 @@
 | `password` | `string` | **Required**. Your ENSAPP Password |
 
 #### Response :
-![App Screenshot](/images/codesnippet%20(16).svg)
+![App Screenshot](/images/codesnippet%20(20).svg)
 
 #### Change Account's Email
 ```
@@ -178,7 +178,7 @@
 | `password` | `string` | **Required**. Your ENSAPP Password |
 
 #### Response :
-![App Screenshot](/images/codesnippet%20(18).svg)
+![App Screenshot](/images/codesnippet%20(19).svg)
 
 #### Get Divers Services IDs
 ```
