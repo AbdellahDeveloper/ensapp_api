@@ -167,6 +167,19 @@
 #### Response :
 ![App Screenshot](/images/codesnippet%20(9).svg)
 
+#### Get Exam Convocation Details
+```
+  GET https://ensapp-api.somee.com/​services​/get_exam_convocation_details?username=###&password=###
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `username` | `string` | **Required**. Your APOGEE or Email |
+| `password` | `string` | **Required**. Your ENSAPP Password |
+
+#### Response :
+![App Screenshot](/images/codesnippet%20(18).svg)
+
 #### Get Divers Services IDs
 ```
   GET https://ensapp-api.somee.com/services/get_all_divers_services?username=###&password=###
