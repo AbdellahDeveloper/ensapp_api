@@ -114,7 +114,7 @@
 
 #### Get Library's Books By Page
 ```
-  GET https://ensapp-api.somee.com/get_books_by_page?username=###&password=###&page_index=#
+  GET https://ensapp-api.somee.com/library/get_books_by_page?username=###&password=###&page_index=#
 ```
 
 | Parameter | Type     | Description                |
