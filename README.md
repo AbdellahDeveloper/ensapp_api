@@ -1,4 +1,7 @@
 ## ENSAPP API
+ 
+![App Screenshot](https://ensapp.uca.ma/images/logo_ensapp.png)
+ 
 ![Logo](/images/ENSAPP%20API%20Banner.png)
 
 
