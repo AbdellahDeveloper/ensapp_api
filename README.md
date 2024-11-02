@@ -7,6 +7,8 @@
 
 ![Static Badge](https://img.shields.io/badge/Awesome%20API-8A2BE2?logo=windows&logoColor=white)
 
+## Tutorial
+[![tuto](https://img.youtube.com/vi/SIqrfdx1T6M/0.jpg)](https://www.youtube.com/watch?v=SIqrfdx1T6M)
 
 ## API Reference
 
